@@ -16,9 +16,7 @@ Frontend: React, JavaScript, HTML5, CSS3</br>
 Backend : Node.js, Express</br>
 Database: MongoDB / any DB</br>
 Tools: Git, VS Code, React Router</br>
-</br>
-📸 Screenshots.</br>
-</br>
+
 
 
 Live Site URL (if deployed)</br>
